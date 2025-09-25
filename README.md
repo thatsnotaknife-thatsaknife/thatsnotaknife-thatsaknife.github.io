@@ -1,1 +1,7 @@
-This project serves as a placeholder / devlog / diary for my journey into computer science. I'm using EVE Online as an excuse to learn web design, coding and programming.
+# That's a KN1F3
+- Started as an Eve Online Alliance Auth install.
+- Turned into a custom-built API app.
+- Has completely devolved into a self-structured computer science syllabus.
+- The Eve app has yet to be installed and/or built.
+
+
